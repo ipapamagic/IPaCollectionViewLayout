@@ -1,0 +1,16 @@
+PODS:
+  - IPaCollectionViewLayout (0.1.0)
+
+DEPENDENCIES:
+  - IPaCollectionViewLayout (from `../`)
+
+EXTERNAL SOURCES:
+  IPaCollectionViewLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IPaCollectionViewLayout: 0333eef159cdba741412d5497655437b8b027214
+
+PODFILE CHECKSUM: c30bc34da22c3e40cbb253f4200f2d17e93f44ed
+
+COCOAPODS: 1.8.4

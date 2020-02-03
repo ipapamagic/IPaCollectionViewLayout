@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'IPaCollectionViewLayout_Example' do
+  pod 'IPaCollectionViewLayout', :path => '../'
+
+  target 'IPaCollectionViewLayout_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
